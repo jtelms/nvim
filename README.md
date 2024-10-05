@@ -1,0 +1,1 @@
+This is a repo for my personal nvim IDE setup. Includes full LSP and DAP functionality with Mason and null-ls; highlighting with treesitter; file navigation with neotree; and a beautiful look and feel. Inspired and ripped-off from Typecraft's nvim series [found here](https://www.youtube.com/watch?v=zHTeCSVAFNY&list=PLsz00TDipIffreIaUNk64KxTIkQaGguqn). Thanks nerd.
