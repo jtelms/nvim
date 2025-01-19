@@ -2,6 +2,7 @@ This is a repo for my personal nvim IDE setup. Includes full LSP and DAP functio
 
 # Operating System Notes and Dependencies
 
+## Linux
 This config was originally made and targeted at Linux systems, so it is pretty much plug and play, just make sure you have a patched font(one of the nerd fonts is what I use, they work out of the box) and have the languages installed first. Windows, however takes a little more work but works perfectly through terminal and Powershell.
 
 ## Windows
